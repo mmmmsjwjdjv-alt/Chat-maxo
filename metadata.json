@@ -1,0 +1,6 @@
+{
+  "name": "MAXO CHAT",
+  "description": "Professional full-stack messenger with real-time global chat, Persian typography, owner management, and secure account system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

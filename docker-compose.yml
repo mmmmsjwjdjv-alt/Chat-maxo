@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: maxo-postgres
+    restart: always
+    environment:
+      POSTGRES_DB: maxo_chat
+      POSTGRES_USER: maxo_admin
+      POSTGRES_PASSWORD: maxo_secure_password_2026
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  server:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    container_name: maxo-server
+    restart: always
+    environment:
+      PORT: 3000
+      DATABASE_URL: postgres://maxo_admin:maxo_secure_password_2026@postgres:5432/maxo_chat
+      BOOTSTRAP_OWNER_PASSWORD: MAXO1212
+      JWT_SECRET: MAXO_PRODUCTION_JWT_SECRET_SUPER_SECURE
+      LEGACY_JSON_URL: https://tk-server.ir/json/CHAT-MAXO.json
+      LEGACY_JSON_EDIT_PASSWORD: MAXO
+    ports:
+      - "3000:3000"
+    depends_on:
+      - postgres
+
+volumes:
+  pgdata:

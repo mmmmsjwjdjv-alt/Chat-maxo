@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_rounded_card"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="وضعیت منبع آنلاین و محدودیت‌های سرور"
+        android:textColor="@color/white_pure"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_dialog_endpoint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_input_field"
+        android:padding="10dp"
+        android:text="https://tk-server.ir/json/CHAT-MAXO.json"
+        android:textColor="@color/gray_text"
+        android:textSize="10sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="گزارش فنی رفتار سرور LiteSpeed:"
+        android:textColor="@color/white_platinum"
+        android:textSize="11sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_technical_report"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:lineSpacingExtra="3dp"
+        android:text="• متد GET: دریافت داده‌ها با موفقیت انجام می‌شود.\n• متد PUT: وب‌سرور LiteSpeed کد 501 (Not Implemented) بازمی‌گرداند.\n• متد POST: محتوای استاتیک برگردانده شده و فایل تغییری نمی‌کند.\n\nبه همین دلیل این فایل یک منبع استاتیک فقط‌خواندنی است. ارسال پیام‌های سراسری پایدار نیازمند اسکریپت یا وب‌سرویس فعال در سمت سرور است."
+        android:textColor="@color/gray_text"
+        android:textSize="11sp" />
+
+    <Button
+        android:id="@+id/btn_dialog_close"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/white_pure"
+        android:text="متوجه شدم"
+        android:textColor="@color/bg_dark"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+</LinearLayout>

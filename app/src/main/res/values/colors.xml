@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#060709</color>
+    <color name="surface_dark">#0B0D11</color>
+    <color name="surface_card">#11141A</color>
+    <color name="surface_variant">#171B23</color>
+    <color name="surface_hover">#1E232F</color>
+    
+    <color name="white_pure">#FFFFFF</color>
+    <color name="white_platinum">#F3F4F6</color>
+    <color name="gray_text">#9CA3AF</color>
+    <color name="gray_muted">#6B7280</color>
+    <color name="gray_border">#26FFFFFF</color>
+    <color name="gray_border_subtle">#14FFFFFF</color>
+    
+    <color name="accent_green">#10B981</color>
+    <color name="accent_red">#EF4444</color>
+    <color name="accent_blue">#3B82F6</color>
+    <color name="bubble_outgoing">#FFFFFF</color>
+    <color name="bubble_outgoing_text">#000000</color>
+    <color name="bubble_incoming">#12161F</color>
+    <color name="bubble_incoming_text">#F3F4F6</color>
+</resources>

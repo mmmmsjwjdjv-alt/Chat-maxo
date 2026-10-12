@@ -1,0 +1,608 @@
+{
+  "users": {
+    "user_maxo_owner": {
+      "id": "user_maxo_owner",
+      "username": "MAXO",
+      "displayName": "مدیر کل MAXO",
+      "passwordHash": "$2a$12$qqp6i8fJE7rY0MsMGPknzuoqUfqbPCMxTIqPbjw/9kNvEnnZRNoPO",
+      "role": "owner",
+      "isSuspended": false,
+      "avatarUrl": "",
+      "bio": "مالک و مدیر ارشد پلتفرم MAXO CHAT",
+      "permissions": {
+        "canDeleteMessages": true,
+        "canSuspendUsers": true,
+        "canManageUsers": true,
+        "canToggleChat": true,
+        "canPinMessages": true,
+        "canViewAuditLogs": true
+      },
+      "createdAt": "2026-10-12T00:36:10.399Z",
+      "updatedAt": "2026-10-12T00:36:10.399Z",
+      "lastSeenAt": "2026-10-12T00:36:41.247Z"
+    },
+    "usr_1791765371198_m2ujg": {
+      "id": "usr_1791765371198_m2ujg",
+      "username": "testuser_1791765370809",
+      "displayName": "کاربر آزمایشی",
+      "passwordHash": "$2a$12$PL1.sxC6J7FxFKTRKAqGBuvSUwwS8923938N9KTeBk9o2MVAbJKUm",
+      "role": "user",
+      "isSuspended": false,
+      "avatarUrl": "",
+      "bio": "",
+      "permissions": {
+        "canDeleteMessages": false,
+        "canSuspendUsers": false,
+        "canManageUsers": false,
+        "canToggleChat": false,
+        "canPinMessages": false,
+        "canViewAuditLogs": false
+      },
+      "createdAt": "2026-10-12T00:36:11.198Z",
+      "updatedAt": "2026-10-12T00:36:11.198Z",
+      "lastSeenAt": "2026-10-12T00:36:11.198Z"
+    },
+    "usr_1791765371588_5yx1c": {
+      "id": "usr_1791765371588_5yx1c",
+      "username": "pwd_user_1791765371201",
+      "displayName": "pwd_user_1791765371201",
+      "passwordHash": "$2a$12$vjePRHxW4GNEk3u23VsAXeGFFXqFDRMkAYixBH2n9Qzg9/hmY84oy",
+      "role": "user",
+      "isSuspended": false,
+      "avatarUrl": "",
+      "bio": "",
+      "permissions": {
+        "canDeleteMessages": false,
+        "canSuspendUsers": false,
+        "canManageUsers": false,
+        "canToggleChat": false,
+        "canPinMessages": false,
+        "canViewAuditLogs": false
+      },
+      "createdAt": "2026-10-12T00:36:11.588Z",
+      "updatedAt": "2026-10-12T00:36:13.219Z",
+      "lastSeenAt": "2026-10-12T00:36:13.999Z"
+    },
+    "usr_1791765374414_p4w78": {
+      "id": "usr_1791765374414_p4w78",
+      "username": "moderator_1791765374005",
+      "displayName": "moderator_1791765374005",
+      "passwordHash": "$2a$12$.Wl9KqIdop.U7d0kUqY34.CQCSvXNzDeSXvJnUniIoWNKuIGP9QVy",
+      "role": "admin",
+      "isSuspended": false,
+      "avatarUrl": "",
+      "bio": "",
+      "permissions": {
+        "canDeleteMessages": true,
+        "canSuspendUsers": false,
+        "canManageUsers": false,
+        "canToggleChat": true,
+        "canPinMessages": true,
+        "canViewAuditLogs": true
+      },
+      "createdAt": "2026-10-12T00:36:14.414Z",
+      "updatedAt": "2026-10-12T00:36:14.417Z",
+      "lastSeenAt": "2026-10-12T00:36:14.414Z"
+    },
+    "usr_1791765374875_05hn9": {
+      "id": "usr_1791765374875_05hn9",
+      "username": "victim_1791765374417",
+      "displayName": "victim_1791765374417",
+      "passwordHash": "$2a$12$szbb3.frxjdFlywxPm3Q7u6oU1HIZZXa5znHWzHR5dAwAypH77Dlu",
+      "role": "user",
+      "isSuspended": true,
+      "avatarUrl": "",
+      "bio": "",
+      "permissions": {
+        "canDeleteMessages": false,
+        "canSuspendUsers": false,
+        "canManageUsers": false,
+        "canToggleChat": false,
+        "canPinMessages": false,
+        "canViewAuditLogs": false
+      },
+      "createdAt": "2026-10-12T00:36:14.876Z",
+      "updatedAt": "2026-10-12T00:36:14.877Z",
+      "lastSeenAt": "2026-10-12T00:36:14.876Z"
+    },
+    "usr_1791765388221_g1gje": {
+      "id": "usr_1791765388221_g1gje",
+      "username": "testuser_1791765387824",
+      "displayName": "کاربر آزمایشی",
+      "passwordHash": "$2a$12$j7RTTSCA4FiNnAO16pfVs.6AOKuYVQQOontB3SViujoYSh6fe0ObO",
+      "role": "user",
+      "isSuspended": false,
+      "avatarUrl": "",
+      "bio": "",
+      "permissions": {
+        "canDeleteMessages": false,
+        "canSuspendUsers": false,
+        "canManageUsers": false,
+        "canToggleChat": false,
+        "canPinMessages": false,
+        "canViewAuditLogs": false
+      },
+      "createdAt": "2026-10-12T00:36:28.221Z",
+      "updatedAt": "2026-10-12T00:36:28.221Z",
+      "lastSeenAt": "2026-10-12T00:36:28.221Z"
+    },
+    "usr_1791765388607_2qvv5": {
+      "id": "usr_1791765388607_2qvv5",
+      "username": "pwd_user_1791765388224",
+      "displayName": "pwd_user_1791765388224",
+      "passwordHash": "$2a$12$QkI7PV4oPG58mEwfefUo7OUK2HO3OCR.JL740GriANLa7Z8EnVwnu",
+      "role": "user",
+      "isSuspended": false,
+      "avatarUrl": "",
+      "bio": "",
+      "permissions": {
+        "canDeleteMessages": false,
+        "canSuspendUsers": false,
+        "canManageUsers": false,
+        "canToggleChat": false,
+        "canPinMessages": false,
+        "canViewAuditLogs": false
+      },
+      "createdAt": "2026-10-12T00:36:28.607Z",
+      "updatedAt": "2026-10-12T00:36:30.241Z",
+      "lastSeenAt": "2026-10-12T00:36:31.013Z"
+    },
+    "usr_1791765391551_srvni": {
+      "id": "usr_1791765391551_srvni",
+      "username": "moderator_1791765391016",
+      "displayName": "moderator_1791765391016",
+      "passwordHash": "$2a$12$pfdG23jTskok3RlNUeQSauMxS.oTXMF/NENOTOqf.0HH9iaaWbM2G",
+      "role": "admin",
+      "isSuspended": false,
+      "avatarUrl": "",
+      "bio": "",
+      "permissions": {
+        "canDeleteMessages": true,
+        "canSuspendUsers": false,
+        "canManageUsers": false,
+        "canToggleChat": true,
+        "canPinMessages": true,
+        "canViewAuditLogs": true
+      },
+      "createdAt": "2026-10-12T00:36:31.551Z",
+      "updatedAt": "2026-10-12T00:36:31.552Z",
+      "lastSeenAt": "2026-10-12T00:36:31.551Z"
+    },
+    "usr_1791765391928_egips": {
+      "id": "usr_1791765391928_egips",
+      "username": "victim_1791765391553",
+      "displayName": "victim_1791765391553",
+      "passwordHash": "$2a$12$tqsVPnVaiQWipy5olJwtyuQ9kMo4Y5ICZfVHsvUTPgiToZEPmxSrS",
+      "role": "user",
+      "isSuspended": true,
+      "avatarUrl": "",
+      "bio": "",
+      "permissions": {
+        "canDeleteMessages": false,
+        "canSuspendUsers": false,
+        "canManageUsers": false,
+        "canToggleChat": false,
+        "canPinMessages": false,
+        "canViewAuditLogs": false
+      },
+      "createdAt": "2026-10-12T00:36:31.928Z",
+      "updatedAt": "2026-10-12T00:36:31.929Z",
+      "lastSeenAt": "2026-10-12T00:36:31.928Z"
+    },
+    "usr_1791765401658_cf3w3": {
+      "id": "usr_1791765401658_cf3w3",
+      "username": "testuser_1791765401252",
+      "displayName": "کاربر آزمایشی",
+      "passwordHash": "$2a$12$tO2kYZ1gMTHYQzXVGij6Lei9jKg.1gThppi1CiouczeMmwuUku3da",
+      "role": "user",
+      "isSuspended": false,
+      "avatarUrl": "",
+      "bio": "",
+      "permissions": {
+        "canDeleteMessages": false,
+        "canSuspendUsers": false,
+        "canManageUsers": false,
+        "canToggleChat": false,
+        "canPinMessages": false,
+        "canViewAuditLogs": false
+      },
+      "createdAt": "2026-10-12T00:36:41.658Z",
+      "updatedAt": "2026-10-12T00:36:41.658Z",
+      "lastSeenAt": "2026-10-12T00:36:41.658Z"
+    },
+    "usr_1791765402088_l3fcj": {
+      "id": "usr_1791765402088_l3fcj",
+      "username": "pwd_user_1791765401661",
+      "displayName": "pwd_user_1791765401661",
+      "passwordHash": "$2a$12$4BdQ/p.o60fJf6jYAmcEluDY1BTcl5JNLnXUxAHw0BoO96QLPi.Xa",
+      "role": "user",
+      "isSuspended": false,
+      "avatarUrl": "",
+      "bio": "",
+      "permissions": {
+        "canDeleteMessages": false,
+        "canSuspendUsers": false,
+        "canManageUsers": false,
+        "canToggleChat": false,
+        "canPinMessages": false,
+        "canViewAuditLogs": false
+      },
+      "createdAt": "2026-10-12T00:36:42.088Z",
+      "updatedAt": "2026-10-12T00:36:43.743Z",
+      "lastSeenAt": "2026-10-12T00:36:44.565Z"
+    },
+    "usr_1791765404961_cvu6i": {
+      "id": "usr_1791765404961_cvu6i",
+      "username": "moderator_1791765404571",
+      "displayName": "moderator_1791765404571",
+      "passwordHash": "$2a$12$9bPGKaXuJa9hTU9yHihOe.6i6izDZsV/zX/okpgLsERvvzucCpx.e",
+      "role": "admin",
+      "isSuspended": false,
+      "avatarUrl": "",
+      "bio": "",
+      "permissions": {
+        "canDeleteMessages": true,
+        "canSuspendUsers": false,
+        "canManageUsers": false,
+        "canToggleChat": true,
+        "canPinMessages": true,
+        "canViewAuditLogs": true
+      },
+      "createdAt": "2026-10-12T00:36:44.961Z",
+      "updatedAt": "2026-10-12T00:36:44.963Z",
+      "lastSeenAt": "2026-10-12T00:36:44.961Z"
+    },
+    "usr_1791765405347_ac00r": {
+      "id": "usr_1791765405347_ac00r",
+      "username": "victim_1791765404963",
+      "displayName": "victim_1791765404963",
+      "passwordHash": "$2a$12$B3.VMlzj9Z98vvbWJg70DeKmsJ/Ut73zvSFsrIxP3c89k3eK7rs0q",
+      "role": "user",
+      "isSuspended": true,
+      "avatarUrl": "",
+      "bio": "",
+      "permissions": {
+        "canDeleteMessages": false,
+        "canSuspendUsers": false,
+        "canManageUsers": false,
+        "canToggleChat": false,
+        "canPinMessages": false,
+        "canViewAuditLogs": false
+      },
+      "createdAt": "2026-10-12T00:36:45.347Z",
+      "updatedAt": "2026-10-12T00:36:45.349Z",
+      "lastSeenAt": "2026-10-12T00:36:45.347Z"
+    }
+  },
+  "messages": {
+    "msg_1791765374001_qlq1x": {
+      "id": "msg_1791765374001_qlq1x",
+      "senderId": "usr_1791765371198_m2ujg",
+      "senderUsername": "testuser_1791765370809",
+      "senderDisplayName": "کاربر آزمایشی",
+      "senderAvatarUrl": "",
+      "senderRole": "user",
+      "content": "این پیام حذف شده است.",
+      "replyTo": null,
+      "reactions": {},
+      "isPinned": false,
+      "isDeleted": true,
+      "isEdited": true,
+      "createdAt": "2026-10-12T00:36:14.001Z",
+      "updatedAt": "2026-10-12T00:36:14.004Z"
+    },
+    "msg_1791765374002_m8262": {
+      "id": "msg_1791765374002_m8262",
+      "senderId": "user_maxo_owner",
+      "senderUsername": "MAXO",
+      "senderDisplayName": "مدیر کل MAXO",
+      "senderAvatarUrl": "",
+      "senderRole": "owner",
+      "content": "درود، خوش آمدید به گفتگوی همگانی.",
+      "replyTo": {
+        "id": "msg_1791765374001_qlq1x",
+        "senderName": "کاربر آزمایشی",
+        "contentSnippet": "سلام به همه اعضای MAXO CHAT!"
+      },
+      "reactions": {},
+      "isPinned": true,
+      "isDeleted": false,
+      "isEdited": false,
+      "createdAt": "2026-10-12T00:36:14.002Z",
+      "updatedAt": "2026-10-12T00:36:14.003Z"
+    },
+    "msg_1791765404567_8mxna": {
+      "id": "msg_1791765404567_8mxna",
+      "senderId": "usr_1791765371198_m2ujg",
+      "senderUsername": "testuser_1791765370809",
+      "senderDisplayName": "کاربر آزمایشی",
+      "senderAvatarUrl": "",
+      "senderRole": "user",
+      "content": "این پیام حذف شده است.",
+      "replyTo": null,
+      "reactions": {},
+      "isPinned": false,
+      "isDeleted": true,
+      "isEdited": true,
+      "createdAt": "2026-10-12T00:36:44.567Z",
+      "updatedAt": "2026-10-12T00:36:44.570Z"
+    },
+    "msg_1791765404568_45ilp": {
+      "id": "msg_1791765404568_45ilp",
+      "senderId": "user_maxo_owner",
+      "senderUsername": "MAXO",
+      "senderDisplayName": "مدیر کل MAXO",
+      "senderAvatarUrl": "",
+      "senderRole": "owner",
+      "content": "درود، خوش آمدید به گفتگوی همگانی.",
+      "replyTo": {
+        "id": "msg_1791765404567_8mxna",
+        "senderName": "کاربر آزمایشی",
+        "contentSnippet": "سلام به همه اعضای MAXO CHAT!"
+      },
+      "reactions": {},
+      "isPinned": true,
+      "isDeleted": false,
+      "isEdited": false,
+      "createdAt": "2026-10-12T00:36:44.568Z",
+      "updatedAt": "2026-10-12T00:36:44.569Z"
+    }
+  },
+  "auditLogs": [
+    {
+      "id": "log_1791765405351",
+      "action": "CHAT_REOPENED",
+      "actorId": "user_maxo_owner",
+      "actorUsername": "MAXO",
+      "details": "گفتگوی همگانی توسط MAXO بازگشایی شد",
+      "timestamp": "2026-10-12T00:36:45.351Z"
+    },
+    {
+      "id": "log_1791765405350",
+      "action": "CHAT_CLOSED",
+      "actorId": "user_maxo_owner",
+      "actorUsername": "MAXO",
+      "details": "گفتگوی همگانی توسط MAXO بسته شد (تعمیرات و به‌روزرسانی سیستم)",
+      "timestamp": "2026-10-12T00:36:45.350Z"
+    },
+    {
+      "id": "log_1791765405349",
+      "action": "USER_SUSPENDED",
+      "actorId": "user_maxo_owner",
+      "actorUsername": "MAXO",
+      "targetId": "usr_1791765405347_ac00r",
+      "targetUsername": "victim_1791765404963",
+      "details": "مسدودسازی کاربر victim_1791765404963 به دلیل: رفتار خلاف قوانین",
+      "timestamp": "2026-10-12T00:36:45.349Z"
+    },
+    {
+      "id": "log_1791765405348",
+      "action": "USER_REGISTERED",
+      "actorId": "usr_1791765405347_ac00r",
+      "actorUsername": "victim_1791765404963",
+      "details": "کاربر جدید با نام کاربری victim_1791765404963 ثبت‌نام کرد",
+      "timestamp": "2026-10-12T00:36:45.347Z"
+    },
+    {
+      "id": "log_1791765404963",
+      "action": "USER_PROMOTED_TO_ADMIN",
+      "actorId": "user_maxo_owner",
+      "actorUsername": "MAXO",
+      "targetId": "usr_1791765404961_cvu6i",
+      "targetUsername": "moderator_1791765404571",
+      "details": "کاربر moderator_1791765404571 توسط مالک به مدیر ارتقا یافت",
+      "timestamp": "2026-10-12T00:36:44.963Z"
+    },
+    {
+      "id": "log_1791765404962",
+      "action": "USER_REGISTERED",
+      "actorId": "usr_1791765404961_cvu6i",
+      "actorUsername": "moderator_1791765404571",
+      "details": "کاربر جدید با نام کاربری moderator_1791765404571 ثبت‌نام کرد",
+      "timestamp": "2026-10-12T00:36:44.961Z"
+    },
+    {
+      "id": "log_1791765404569",
+      "action": "MESSAGE_PINNED",
+      "actorId": "user_maxo_owner",
+      "actorUsername": "MAXO",
+      "targetId": "user_maxo_owner",
+      "targetUsername": "MAXO",
+      "details": "وضعیت پین پیام msg_1791765404568_45ilp به true تغییر یافت",
+      "timestamp": "2026-10-12T00:36:44.569Z"
+    },
+    {
+      "id": "log_1791765403744",
+      "action": "PASSWORD_CHANGED",
+      "actorId": "usr_1791765402088_l3fcj",
+      "actorUsername": "pwd_user_1791765401661",
+      "details": "رمز عبور کاربر تغییر یافت",
+      "timestamp": "2026-10-12T00:36:43.743Z"
+    },
+    {
+      "id": "log_1791765402088",
+      "action": "USER_REGISTERED",
+      "actorId": "usr_1791765402088_l3fcj",
+      "actorUsername": "pwd_user_1791765401661",
+      "details": "کاربر جدید با نام کاربری pwd_user_1791765401661 ثبت‌نام کرد",
+      "timestamp": "2026-10-12T00:36:42.088Z"
+    },
+    {
+      "id": "log_1791765401658",
+      "action": "USER_REGISTERED",
+      "actorId": "usr_1791765401658_cf3w3",
+      "actorUsername": "testuser_1791765401252",
+      "details": "کاربر جدید با نام کاربری testuser_1791765401252 ثبت‌نام کرد",
+      "timestamp": "2026-10-12T00:36:41.658Z"
+    },
+    {
+      "id": "log_1791765391931",
+      "action": "CHAT_REOPENED",
+      "actorId": "user_maxo_owner",
+      "actorUsername": "MAXO",
+      "details": "گفتگوی همگانی توسط MAXO بازگشایی شد",
+      "timestamp": "2026-10-12T00:36:31.931Z"
+    },
+    {
+      "id": "log_1791765391930",
+      "action": "CHAT_CLOSED",
+      "actorId": "user_maxo_owner",
+      "actorUsername": "MAXO",
+      "details": "گفتگوی همگانی توسط MAXO بسته شد (تعمیرات و به‌روزرسانی سیستم)",
+      "timestamp": "2026-10-12T00:36:31.930Z"
+    },
+    {
+      "id": "log_1791765391929",
+      "action": "USER_SUSPENDED",
+      "actorId": "user_maxo_owner",
+      "actorUsername": "MAXO",
+      "targetId": "usr_1791765391928_egips",
+      "targetUsername": "victim_1791765391553",
+      "details": "مسدودسازی کاربر victim_1791765391553 به دلیل: رفتار خلاف قوانین",
+      "timestamp": "2026-10-12T00:36:31.929Z"
+    },
+    {
+      "id": "log_1791765391928",
+      "action": "USER_REGISTERED",
+      "actorId": "usr_1791765391928_egips",
+      "actorUsername": "victim_1791765391553",
+      "details": "کاربر جدید با نام کاربری victim_1791765391553 ثبت‌نام کرد",
+      "timestamp": "2026-10-12T00:36:31.928Z"
+    },
+    {
+      "id": "log_1791765391552",
+      "action": "USER_PROMOTED_TO_ADMIN",
+      "actorId": "user_maxo_owner",
+      "actorUsername": "MAXO",
+      "targetId": "usr_1791765391551_srvni",
+      "targetUsername": "moderator_1791765391016",
+      "details": "کاربر moderator_1791765391016 توسط مالک به مدیر ارتقا یافت",
+      "timestamp": "2026-10-12T00:36:31.552Z"
+    },
+    {
+      "id": "log_1791765391551",
+      "action": "USER_REGISTERED",
+      "actorId": "usr_1791765391551_srvni",
+      "actorUsername": "moderator_1791765391016",
+      "details": "کاربر جدید با نام کاربری moderator_1791765391016 ثبت‌نام کرد",
+      "timestamp": "2026-10-12T00:36:31.551Z"
+    },
+    {
+      "id": "log_1791765390242",
+      "action": "PASSWORD_CHANGED",
+      "actorId": "usr_1791765388607_2qvv5",
+      "actorUsername": "pwd_user_1791765388224",
+      "details": "رمز عبور کاربر تغییر یافت",
+      "timestamp": "2026-10-12T00:36:30.241Z"
+    },
+    {
+      "id": "log_1791765388608",
+      "action": "USER_REGISTERED",
+      "actorId": "usr_1791765388607_2qvv5",
+      "actorUsername": "pwd_user_1791765388224",
+      "details": "کاربر جدید با نام کاربری pwd_user_1791765388224 ثبت‌نام کرد",
+      "timestamp": "2026-10-12T00:36:28.607Z"
+    },
+    {
+      "id": "log_1791765388221",
+      "action": "USER_REGISTERED",
+      "actorId": "usr_1791765388221_g1gje",
+      "actorUsername": "testuser_1791765387824",
+      "details": "کاربر جدید با نام کاربری testuser_1791765387824 ثبت‌نام کرد",
+      "timestamp": "2026-10-12T00:36:28.221Z"
+    },
+    {
+      "id": "log_1791765374878",
+      "action": "CHAT_CLOSED",
+      "actorId": "user_maxo_owner",
+      "actorUsername": "MAXO",
+      "details": "گفتگوی همگانی توسط MAXO بسته شد (تعمیرات و به‌روزرسانی سیستم)",
+      "timestamp": "2026-10-12T00:36:14.878Z"
+    },
+    {
+      "id": "log_1791765374877",
+      "action": "USER_SUSPENDED",
+      "actorId": "user_maxo_owner",
+      "actorUsername": "MAXO",
+      "targetId": "usr_1791765374875_05hn9",
+      "targetUsername": "victim_1791765374417",
+      "details": "مسدودسازی کاربر victim_1791765374417 به دلیل: رفتار خلاف قوانین",
+      "timestamp": "2026-10-12T00:36:14.877Z"
+    },
+    {
+      "id": "log_1791765374876",
+      "action": "USER_REGISTERED",
+      "actorId": "usr_1791765374875_05hn9",
+      "actorUsername": "victim_1791765374417",
+      "details": "کاربر جدید با نام کاربری victim_1791765374417 ثبت‌نام کرد",
+      "timestamp": "2026-10-12T00:36:14.876Z"
+    },
+    {
+      "id": "log_1791765374417",
+      "action": "USER_PROMOTED_TO_ADMIN",
+      "actorId": "user_maxo_owner",
+      "actorUsername": "MAXO",
+      "targetId": "usr_1791765374414_p4w78",
+      "targetUsername": "moderator_1791765374005",
+      "details": "کاربر moderator_1791765374005 توسط مالک به مدیر ارتقا یافت",
+      "timestamp": "2026-10-12T00:36:14.417Z"
+    },
+    {
+      "id": "log_1791765374414",
+      "action": "USER_REGISTERED",
+      "actorId": "usr_1791765374414_p4w78",
+      "actorUsername": "moderator_1791765374005",
+      "details": "کاربر جدید با نام کاربری moderator_1791765374005 ثبت‌نام کرد",
+      "timestamp": "2026-10-12T00:36:14.414Z"
+    },
+    {
+      "id": "log_1791765374003",
+      "action": "MESSAGE_PINNED",
+      "actorId": "user_maxo_owner",
+      "actorUsername": "MAXO",
+      "targetId": "user_maxo_owner",
+      "targetUsername": "MAXO",
+      "details": "وضعیت پین پیام msg_1791765374002_m8262 به true تغییر یافت",
+      "timestamp": "2026-10-12T00:36:14.003Z"
+    },
+    {
+      "id": "log_1791765373219",
+      "action": "PASSWORD_CHANGED",
+      "actorId": "usr_1791765371588_5yx1c",
+      "actorUsername": "pwd_user_1791765371201",
+      "details": "رمز عبور کاربر تغییر یافت",
+      "timestamp": "2026-10-12T00:36:13.219Z"
+    },
+    {
+      "id": "log_1791765371588",
+      "action": "USER_REGISTERED",
+      "actorId": "usr_1791765371588_5yx1c",
+      "actorUsername": "pwd_user_1791765371201",
+      "details": "کاربر جدید با نام کاربری pwd_user_1791765371201 ثبت‌نام کرد",
+      "timestamp": "2026-10-12T00:36:11.588Z"
+    },
+    {
+      "id": "log_1791765371198",
+      "action": "USER_REGISTERED",
+      "actorId": "usr_1791765371198_m2ujg",
+      "actorUsername": "testuser_1791765370809",
+      "details": "کاربر جدید با نام کاربری testuser_1791765370809 ثبت‌نام کرد",
+      "timestamp": "2026-10-12T00:36:11.198Z"
+    },
+    {
+      "id": "log_1791765370400",
+      "action": "BOOTSTRAP_OWNER_CREATED",
+      "actorId": "user_maxo_owner",
+      "actorUsername": "MAXO",
+      "details": "حساب کاربری مالک ارشد اولیه MAXO با موفقیت ایجاد شد",
+      "timestamp": "2026-10-12T00:36:10.399Z"
+    }
+  ],
+  "settings": {
+    "isChatClosed": false,
+    "welcomeMessage": "به پیام‌رسان پیشرفته MAXO خوش آمدید",
+    "updatedAt": "2026-10-12T00:36:45.351Z",
+    "updatedBy": "MAXO",
+    "closedReason": "تعمیرات و به‌روزرسانی سیستم"
+  }
+}

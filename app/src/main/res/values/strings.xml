@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MAXO CHAT</string>
+    <string name="login_title">ورود به حساب کاربری</string>
+    <string name="register_title">ثبت‌نام در MAXO CHAT</string>
+    <string name="username_hint">نام کاربری (انگلیسی)</string>
+    <string name="display_name_hint">نام نمایشی (اختیاری)</string>
+    <string name="password_hint">رمز عبور</string>
+    <string name="confirm_password_hint">تکرار رمز عبور</string>
+    <string name="btn_login">ورود به حساب</string>
+    <string name="btn_register">ساخت حساب کاربری</string>
+    <string name="chat_input_hint">پیام خود را بنویسید...</string>
+    <string name="send">ارسال</string>
+    <string name="owner_badge">مالک</string>
+    <string name="admin_badge">مدیر</string>
+    <string name="user_badge">کاربر</string>
+    <string name="json_endpoint_label">منبع آنلاین: CHAT-MAXO.json</string>
+</resources>
